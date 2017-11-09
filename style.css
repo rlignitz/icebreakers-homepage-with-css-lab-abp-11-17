@@ -39,5 +39,6 @@ nav a:hover {
 }
 
 #header a {
-
+  text-decoration: none;
+  color: #868e96;
 }
