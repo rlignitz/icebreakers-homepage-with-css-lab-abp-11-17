@@ -80,12 +80,12 @@ div.questions {
   padding: 0 20px 0 20px;
 }
 
-/* why does questions need div in front of it for this but jumbotron above doesn't? */
+/* why does questions need div in front of it for these but jumbotron above doesn't? */
 div.questions h4 {
   font-size: 30px;
   margin-bottom: 10px;
 }
 
-.questions p {
+div.questions p {
   margin-top: 30px;
 }
