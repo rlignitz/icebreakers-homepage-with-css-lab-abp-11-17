@@ -40,6 +40,7 @@ nav a:hover {
   color: #0056b3;
 }
 
+/* why does h3 have to be before #header here?*/
 h3#header {
   float: left;
   font-size: 30px;
